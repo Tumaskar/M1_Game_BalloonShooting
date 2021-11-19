@@ -28,9 +28,8 @@ In the **SECOND LEVEL** of game there are  8 balloons and 6 arrows .
 If you get a minimum score of 180, you will be eligible for entering in third level.
 
 
-    ------>  *THIRD LEVEL*   <------
+   ------>  *THIRD LEVEL*   <------
  
-     
  In third level there are 6 balloons and 6 arrows.
 
 If you completed all the three levels, you will be the winner.
