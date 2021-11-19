@@ -32,6 +32,6 @@ If you get a minimum score of 180, you will be eligible for entering in third le
  
  In the **THIRD LEVEL** of the game there are 6 balloons and 6 arrows.
 
-If you completed all the three levels, you will be the **"WINNER"**.
+If you completed all the three levels, you will be the **" WINNER "**.
 
 
