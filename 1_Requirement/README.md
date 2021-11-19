@@ -15,7 +15,7 @@ The bow is put on left side which can move up and down. If you shoot a balloon y
 
    ------>  *FIRST LEVEL*   <------
    
-In very **FIRST LEVEL** of game there are 10 balloons and 6 arrows.
+In very **FIRST LEVEL** of the game there are 10 balloons and 6 arrows.
 
 If you get a minimum score of 100, you will be eligible for entering in second level. 
 If you not able to get this minimum score, you are not qualified for second level and the game will be over . 
@@ -23,7 +23,7 @@ If you not able to get this minimum score, you are not qualified for second leve
  
  ------>  *SECOND LEVEL*   <------
 
-In the **SECOND LEVEL** of game there are  8 balloons and 6 arrows .
+In the **SECOND LEVEL** of the game there are  8 balloons and 6 arrows .
 
 If you get a minimum score of 180, you will be eligible for entering in third level.
 
