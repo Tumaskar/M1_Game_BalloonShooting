@@ -1,7 +1,7 @@
 
-INTRODUCTION 
+# INTRODUCTION 
 
-**BALLOON SHOOTING**
+## BALLOON SHOOTING**
 
 This is a simple balloon shooting game made in C language :
 
@@ -40,7 +40,7 @@ If you completed all the three levels, you will be the **" WINNER "**.
 
 
 
-**SWOT Analysis**
+## SWOT Analysis
 
 Strength :
 1. To feel relax and  stress free we can play this game.
@@ -54,7 +54,7 @@ Weakness :
 
 
 
-4W's and 1'H
+## 4W's and 1'H
 
 4W's
 
@@ -79,16 +79,16 @@ How : Can be operated from Personal computer, ,or laptop.
 
 
 
-**Detail Requirements** :
+## Detail Requirements :
 
-High Level Requirements :
+## High Level Requirements :
 | ID | Description |
 | --- | --- |
 | HLR_1 | GRAPHICS : Realistic graphics can be added. |
 | HLR_2 | MODE : Different modes can be added. |
 | HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. |
 
-Low Level Requiremnets :
+## Low Level Requiremnets :
 | ID | Description |
 | --- | --- |
 | LLR_1 | GRAPHICS : Graphics should be  compatable to the computer specification. |
