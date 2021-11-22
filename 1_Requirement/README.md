@@ -1,7 +1,4 @@
-Problem Statement:
 
-
- BALLOON SHOOTING Game using  C programming language. 
 
 **INTRODUCTION** 
 
@@ -38,6 +35,9 @@ If you get a minimum score of 180, you will be eligible for entering in third le
  In the **THIRD LEVEL** of the game there are 6 balloons and 6 arrows.
 
 If you completed all the three levels, you will be the **" WINNER "**.
+
+
+
 
 
 
@@ -78,6 +78,20 @@ How : Can be operated from Personal computer, ,or laptop.
       
 
 
-Detail requirements :
+
+
+**Detail Requirements** :
 
 High Level Requirements :
+| ID | Description |
+| --- | --- |
+| HLR_1 | GRAPHICS : Realistic graphics can be added. |
+| HLR_2 | MODE : Different modes can be added. |
+| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. |
+
+Low Level Requiremnets :
+| ID | Description |
+| --- | --- |
+| LLR_1 | GRAPHICS : Graphics should be  compatable to the computer specification. |
+| LLR_2 | MODE : No of modes can be specified. |
+| LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score . |
