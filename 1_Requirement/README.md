@@ -1,6 +1,6 @@
 INTRODUCTION 
 
-**BALLOON SHOOTING
+**BALLOON SHOOTING**
 
 This is a simple balloon shooting game made in C language :
 
