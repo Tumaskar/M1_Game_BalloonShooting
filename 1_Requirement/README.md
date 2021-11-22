@@ -1,3 +1,8 @@
+Problem Statement:
+
+
+ BALLOON SHOOTING Game using  C programming language. 
+
 **INTRODUCTION** 
 
 *BALLOON SHOOTING*
@@ -35,3 +40,44 @@ If you get a minimum score of 180, you will be eligible for entering in third le
 If you completed all the three levels, you will be the **" WINNER "**.
 
 
+
+**SWOT Analysis**
+
+Strength :
+1. To feel relax and  stress free we can play this game.
+2. This game is for fun purpose.
+3. We can access this game anytime.
+
+Weakness :
+1. Playing game for hours can cause a trouble for eyes.
+2. This may lead eye problems.
+ 
+
+
+
+4W's and 1'H
+
+4W's
+
+Who : Can be played anytime.
+
+
+What : Virtual medium to  play the game.
+
+
+When : Can be played from anywhere.
+
+
+Where : Everyone can play this game.
+
+
+1'H
+
+How : Can be operated from Personal computer, ,or laptop.
+
+      
+
+
+Detail requirements :
+
+High Level Requirements :

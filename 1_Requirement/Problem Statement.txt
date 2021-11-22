@@ -1,4 +1,0 @@
-Problem Statement:
-
-
- BALLOON SHOOTING Game using  C programming language. 
