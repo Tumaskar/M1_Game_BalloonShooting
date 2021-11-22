@@ -72,7 +72,7 @@ Where : Everyone can play this game.
 
 1'H
 
-How : Can be operated from Personal computer, ,or laptop.
+How : Can be operated from Personal computer or laptop.
 
       
 
