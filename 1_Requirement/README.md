@@ -78,12 +78,10 @@ How : Can be operated from Personal computer or laptop.
 
 
 
-<<<<<<< HEAD
+
 **Detail Requirements** :
-=======
 
 ## Detail Requirements :
->>>>>>> 4738f440f651b1cd717e84dba80809045120dce4
 
 ## High Level Requirements :
 | ID | Description |
