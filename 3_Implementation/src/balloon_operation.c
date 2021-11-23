@@ -9,4 +9,14 @@
  * 
  */
 
+void *balloon,*bow,*arrow,*burst;
+void *clear_balloon,*clear_burst;
+void draw_balloon(int ,int );
+void draw_burst ( int x, int y );
+void draw_bow(int x,int y);
+void draw_arrow(int x, int y);
+void shoot(int *x, int *y);
+int testkeys();
+void fly(int *x, int *y);
+void start();
 
