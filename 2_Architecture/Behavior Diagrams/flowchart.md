@@ -1,5 +1,5 @@
 Flow Chart
 
+![Flow chart](https://user-images.githubusercontent.com/94179036/142973429-babd704f-1994-4e75-8d7c-97c6d4585474.png)
 
-![Flow Chart](https://user-images.githubusercontent.com/94179036/142973127-649d6b62-b671-4d30-bed9-3e353e460bac.png)
 
