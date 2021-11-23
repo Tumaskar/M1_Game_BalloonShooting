@@ -1,11 +1,1 @@
-The project is designed primarily on tasks handling of the project that is , Balloon movements, Levels, and hitting the balloon. 
-
-The main two types of objects are arrows and balloons. 
-
-The input for the movements of the bow is to use  UP and DOWN arrow key.
-
-Press  RIGHT aarrow key to shoot arrow.
-
-Scores are updated when you shoot the balloon.
-
 
