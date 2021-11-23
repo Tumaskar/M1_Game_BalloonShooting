@@ -6,4 +6,4 @@
 ![Code Quality Score](https://api.codiga.io/project/29854/score/svg)
 
 
-https://api.codiga.io/project/29854/status/svg
+![Code Grade](https://api.codiga.io/project/29854/status/svg)
