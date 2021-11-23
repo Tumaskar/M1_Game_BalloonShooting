@@ -1,6 +1,6 @@
 # Design.
 
-The project is designed primarily on tasks handling different modules of the project viz, Balloon movements, levels, and hitting the balloon. 
+The project is designed primarily on tasks handling of the project that is , Balloon movements, Levels, and hitting the balloon. 
 The main two types of objects are arrows and balloons. 
 
 The input for the movements of the bow is to use # UP and # DOWN buttons arrow key.
