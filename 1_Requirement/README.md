@@ -48,31 +48,33 @@ If you completed all the three levels, you will be the **" WINNER "**.
 3. We can access this game anytime.
 
 Weakness :
-1. Playing game for hours can cause a trouble for eyes.
-2. This may lead eye problems.
+1. This game can be addictive.
  
+Opportunities :
+1. Computer gaming.
 
+Threats :
+Game can crash due to some technical erroes.
 
 
 ## 4W's and 1'H
 
 4W's
 
-Who : Can be played anytime.
+Who : Any one can play this game
 
 
 What : Virtual medium to  play the game.
 
 
-When : Can be played from anywhere.
+When : This game can be played whenever you are feeling bored or want to figure out ways  and outcome of the game. 
 
 
-Where : Everyone can play this game.
-
+Where : Can be made availabel on sites.
 
 1'H
 
-How : Can be operated from Personal computer or laptop.
+How : This project is implemented by using functionalities of c.
 
       
 
@@ -86,13 +88,16 @@ How : Can be operated from Personal computer or laptop.
 ## High Level Requirements :
 | ID | Description | Status |
 | --- | --- | --- |
-| HLR_1 | GRAPHICS : Realistic graphics can be added. | Implemented
-| HLR_2 | MODE : Different modes can be added. | Implemented |
-| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. | Implemented |
+| HLR_1 | User shall be able to use UP arrow to move the Bow | Implemented
+| HLR_2 | User shall be able to use DOWN arrow to move the Bow | Implemented |
+| HLR_3 | User shall be able to Exit the game | Implemented |
+| HLR-4 | User shall Win | Implemented |
+| HLR_5 | User shall Loss | Implemented |
 
 ## Low Level Requiremnets :
 | ID | Description | Status |
 | --- | --- | --- |
-| LLR_1 | GRAPHICS : Graphics should be  compatable to the computer specification. | Implemented |
-| LLR_2 | MODE : No of modes can be specified. | Implemented |
-| LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score . | Implemented |
+| LLR_1 | Minimum score | Implemented |
+| LLR_2 | Maximum score | Implemented |
+| LLR_3 | Other arrow keys won't work | Implemented |
+
