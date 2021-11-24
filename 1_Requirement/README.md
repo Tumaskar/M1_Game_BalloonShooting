@@ -88,11 +88,10 @@ How : This project is implemented by using functionalities of c.
 ## High Level Requirements :
 | ID | Description | Status |
 | --- | --- | --- |
-| HLR_1 | User shall be able to use UP arrow to move the Bow | Implemented
-| HLR_2 | User shall be able to use DOWN arrow to move the Bow | Implemented |
-| HLR_3 | User shall be able to Exit the game | Implemented |
-| HLR-4 | User shall Win | Implemented |
-| HLR_5 | User shall Loss | Implemented |
+| HLR_1 | User shall be able to use UP / DOWN arrow to move the Bow | Implemented
+| HLR_2 | User shall WIN / LOSS | Implemented |
+| HLR-3 | User shall be able to Exit the game | Implemented |
+
 
 ## Low Level Requiremnets :
 | ID | Description | Status |
