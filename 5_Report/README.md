@@ -103,4 +103,15 @@ How : This project is implemented by using functionalities of c.
 
 ## Implementation
 
+
+
+## Test Plan
+
+| ID | Description | Status |
+| --- | --- | --- |
+| 1. | Start Game | Implemented |
+| 2. | Level Detection | Implemented |
+| 3. | Score : Minimum/Maximum | Implemented |
+| 4. | End Game | Implemented |
+
  
