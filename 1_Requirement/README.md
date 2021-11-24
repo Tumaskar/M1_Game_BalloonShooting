@@ -43,9 +43,7 @@ If you completed all the three levels, you will be the **" WINNER "**.
 ## SWOT Analysis
 
  Strength :
-1. To feel relax and  stress free we can play this game.
-2. This game is for fun purpose.
-3. We can access this game anytime.
+1. This game is for fun purpose.
 
 Weakness :
 1. This game can be addictive.
