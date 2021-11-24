@@ -96,3 +96,8 @@ How : This project is implemented by using functionalities of c.
 | --- | --- | --- |
 | LLR_1 | Minimum score | Implemented |
 | LLR_2 | Maximum score | Implemented |
+
+
+## Tools.
+1. Draw.io
+ 
