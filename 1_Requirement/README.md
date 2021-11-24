@@ -54,7 +54,7 @@ Opportunities :
 1. Computer gaming.
 
 Threats :
-Game can crash due to some technical erroes.
+1. Game can crash due to some technical erroes.
 
 
 ## 4W's and 1'H
