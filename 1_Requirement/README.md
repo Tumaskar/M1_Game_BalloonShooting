@@ -98,5 +98,5 @@ How : This project is implemented by using functionalities of c.
 | --- | --- | --- |
 | LLR_1 | Minimum score | Implemented |
 | LLR_2 | Maximum score | Implemented |
-| LLR_3 | Other arrow keys won't work | Implemented |
+
 
